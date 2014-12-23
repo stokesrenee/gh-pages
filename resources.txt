@@ -1,0 +1,16 @@
+websites:
+
+	https://developer.mozilla.org/en-US/docs/Web
+	https://developer.mozilla.org/en-US/docs/Web/HTML
+	https://developer.mozilla.org/en-US/docs/Web/CSS
+
+	http://jigsaw.w3.org/css-validator/#validate_by_input
+	http://validator.w3.org/#validate_by_input
+
+	http://getbootstrap.com/css/
+
+Udacity resources & Forum
+
+	http://udacity.github.io/frontend-nanodegree-styleguide/
+	https://piazza.com
+
