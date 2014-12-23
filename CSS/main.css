@@ -1,0 +1,31 @@
+* {
+    font-family: "Lucida Grande", sans-serif;
+    color: #666;
+    line-height: 2;
+}
+
+.title-super {
+    font-size: 48px;
+    margin-top: 42px;
+}
+
+.main-features {
+	border: 1px solid #CCC;
+	padding: 20px;
+}
+
+h2 {
+	color: #F07C17;
+    padding-bottom: 12px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+img {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+p, li {
+    font-size: 16px;
+}
